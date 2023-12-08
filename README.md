@@ -4,10 +4,10 @@ Bienvenue sur mon dépôt GitHub ! Ici, je partage mon parcours d'apprentissage 
 
 ## Navigation dans les Branches
 
-- **Branche 01 - HTML-CSS-Basics :** Projets de base mettant en œuvre les fondamentaux HTML et CSS.
-- **Branche 02 - JavaScript-Projects :** Projets intégrant JavaScript pour interactivité et dynamisme.
-- **Branche 03 - Frameworks-Fun :** Utilisation de frameworks comme React, Angular, ou Vue.js dans des projets.
-- **Branche 04 - FullStack-Adventures :** Projets Full Stack couvrant le développement côté client et serveur.
+- **HTML-CSS-Basics :** Projets de base mettant en œuvre les fondamentaux HTML et CSS.
+- **JavaScript-Projects :** Projets intégrant JavaScript pour interactivité et dynamisme.
+- **Frameworks-Fun :** Utilisation de frameworks comme React, Angular, ou Vue.js dans des projets.
+- **FullStack-Adventures :** Projets Full Stack couvrant le développement côté client et serveur.
 
 Explorez chaque branche pour voir l'évolution de mes compétences et découvrir différents aspects du développement web. N'hésitez pas à cloner le dépôt et à explorer les différents projets !
 
