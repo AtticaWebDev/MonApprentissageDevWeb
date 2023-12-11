@@ -1,0 +1,68 @@
+body {
+  font-family: "Open Sans", "Arial", sans-serif;
+  margin: 0;
+}
+
+header {
+  background: black;
+  text-align: center;
+  color: white;
+  padding: 30px 30px 150px 30px;
+}
+
+header h1 {
+  font-size: 6em;
+  margin-top: 150px;
+  border-bottom: 2px solid white;
+  padding-bottom: 15px;
+}
+
+header h2 {
+  font-size: 2.5em;
+  margin-top: -25px;
+  font-style: italic;
+}
+
+header h1,
+header h2 {
+  text-shadow: 0 0 5px white;
+}
+
+header button {
+  padding: 15px;
+  width: 275px;
+  font-size: 1.25em;
+  background-color: white;
+  color: black;
+  border: 1px solid, wheat;
+  border-radius: 5px;
+}
+
+header button:hover {
+  cursor: pointer;
+  background: grey;
+}
+
+header button:active {
+  box-shadow: none;
+  position: relative;
+  top: 2px;
+}
+
+.menu {
+  list-style: none;
+  float: right;
+  margin-right: 30px;
+}
+
+.menu li {
+  display: inline;
+  margin-right: 40px;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.2em;
+  text-shadow: 0 0 2px black;
+}
