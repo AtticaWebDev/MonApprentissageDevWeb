@@ -14,7 +14,7 @@ Explorez chaque branche pour voir l'évolution de mes compétences et découvrir
 
 ## Comment Naviguer
 
-1. Clonez le dépôt localement : `git@github.com:AtticaWebDev/ApprendreCoderConstruireWeb.git`
+1. Clonez le dépôt localement : `git@github.com:AtticaWebDev/MonApprentissageDevWeb.git`
 2. Accédez à la branche souhaitée : `git checkout nom-de-la-branche`
 3. Explorez les projets dans le répertoire correspondant.
 
